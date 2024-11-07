@@ -36,7 +36,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/madangkt/madangkt/output/snake.svg" alt="Snake animation" />
-
-###
