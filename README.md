@@ -23,4 +23,4 @@ Currently, I don't have any blog posts to share. Stay tuned!
 
 ## Connect with Me
 
-<a href="https://instagram.com/madnesia_" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a> | <a href="https://threads.net/madnesia" target="_blank" rel="noopener noreferrer"><Icon /> Threads</a>
+<p><a target="_blank" href="https://www.instagram.com/madnesia_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
