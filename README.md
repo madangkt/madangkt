@@ -11,7 +11,7 @@ I'm a software developer with a focus on building efficient applications. Based 
 [![My Skills](https://skillicons.dev/icons?i=lua,html,css,js,nodejs,py,aws&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
-Public Repositories: 6  
+Public Repositories: 3  
 Followers: 0  
 Following: 0  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madangkt&show_icons=true)
